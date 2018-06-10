@@ -1,0 +1,13 @@
+/build
+/_build
+/_objects
+/reports/
+/venv
+
+.*.swp
+*.pdf
+
+.DS_Store
+.idea
+tags
+/.project
